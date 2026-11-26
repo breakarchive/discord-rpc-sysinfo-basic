@@ -1,5 +1,4 @@
-Voici le README complet traduit en français, prêt à copier-coller :
-Markdown# Crédit à Paranørmal (BreakArchive) et Dopa
+Crédit à Paranørmal (BreakArchive) et Dopa
 # System Monitor Discord Rich Presence
 
 Un script Python moderne pour surveiller et afficher l'utilisation du CPU, de la mémoire, des E/S disque et des E/S réseau via Discord Rich Presence.
